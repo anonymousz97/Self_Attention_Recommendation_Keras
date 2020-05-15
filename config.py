@@ -1,0 +1,9 @@
+d_emb = 16
+max_len = 20
+no_block = 2
+n_head = 2
+d_model = d_emb
+dropout = 0.1
+dff = 2048
+batch_size = 128
+epochs = 1000
